@@ -10,5 +10,17 @@
         "url": "https://jup.ag",
         "description": "The Liquidity Infrastructure for Solana",
         "logoUrl": "https://jup.ag/svg/jupiter-logo.svg"
+    },
+    {
+        "name": "Raydium",
+        "url": "https://raydium.io/pools",
+        "description": "Light-speed swaps. Next-level liquidity. Friction-less yield",
+        "logoUrl": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R/logo.png"
+    },
+    {
+        "name": "Birdeye",
+        "url": "https://birdeye.so/token/Boxch1343xWQWbahVBPhYHuYLXNHnWYHG6QbuqfNugQ1",
+        "description": "Explorer",
+        "logoUrl": "https://birdeye.so/static/media/logo-birdeye.f6511fe2e85b2503f8f4.png"
     }
 ]
