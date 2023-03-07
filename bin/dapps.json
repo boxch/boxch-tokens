@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Payer",
+        "url": "https://app.payer.pw",
+        "description": "Non-custodial P2P exchange",
+        "logoUrl": "https://shdw-drive.genesysgo.net/85Fx9zuCRF1Wx3J6SxL5LUstwhzh6Xem7PKVGUuz4ZW5/Frame%2022.jpg"
+    },
+    {
+        "name": "Jupiter Aggregator",
+        "url": "https://jup.ag",
+        "description": "The Liquidity Infrastructure for Solana",
+        "logoUrl": "https://jup.ag/svg/jupiter-logo.svg"
+    }
+]
