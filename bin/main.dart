@@ -11,7 +11,7 @@ main() async {
 
   var server = await HttpServer.bind(address, PORT);
   print(
-       'Boxch server. Address: ${server.address.address}, port: ${server.port}');
+       'Boxch server. http://localhost:${server.port}');
 
 
   server.listen((HttpRequest request) async {
