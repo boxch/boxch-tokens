@@ -18,9 +18,9 @@
         "logoUrl": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R/logo.png"
     },
     {
-        "name": "Birdeye",
-        "url": "https://birdeye.so/token/Boxch1343xWQWbahVBPhYHuYLXNHnWYHG6QbuqfNugQ1",
-        "description": "Explorer",
-        "logoUrl": "https://birdeye.so/static/media/logo-birdeye.f6511fe2e85b2503f8f4.png"
+        "name": "Sonar Watch",
+        "url": "https://sonar.watch/",
+        "description": "Track your DeFi performance on Solana blockchain",
+        "logoUrl": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/sonarX4VtVkQemriJeLm6CKeW3GDMyiBnnAEMw1MRAE/logo.png"
     }
 ]
